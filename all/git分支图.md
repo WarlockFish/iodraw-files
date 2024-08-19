@@ -1,7 +1,7 @@
 ```mermaid
     gitGraph
-      commit 1212321313
-      commit
+      commit "中文"
+      commit 321312314342423424324234234234234
       branch develop
       checkout develop
       commit
@@ -10,5 +10,6 @@
       merge develop
       commit
       commit
+      barcn
 
 ```

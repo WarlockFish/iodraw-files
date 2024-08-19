@@ -1,14 +1,16 @@
 ```mermaid
     gitGraph
+      commit id
       commit
-      commit
-      branch develop
-      checkout develop
+      branch dev
+      checkout dev
       commit
       commit
       checkout main
-      merge develop
+      merge dev
       commit
       commit
+      branch deff
+
 
 ```

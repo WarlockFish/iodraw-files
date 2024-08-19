@@ -10,6 +10,11 @@
       merge develop
       commit
       commit
-      barcn
+      branch dev 
+      checkout dev 
+      commit
+      commit
+      checkout main
+
 
 ```
